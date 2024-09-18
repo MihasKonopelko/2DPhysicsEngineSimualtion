@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release_WIN" />
+	<File name="include\Globals.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="401" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="12" />
+			<Collapse line="19" />
+			<Collapse line="26" />
+		</Folding>
+	</File>
+	<File name="src\CollisionListener.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3258" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="17" />
+			<Collapse line="22" />
+			<Collapse line="33" />
+			<Collapse line="37" />
+			<Collapse line="42" />
+			<Collapse line="50" />
+			<Collapse line="56" />
+			<Collapse line="64" />
+			<Collapse line="70" />
+			<Collapse line="78" />
+			<Collapse line="89" />
+			<Collapse line="91" />
+			<Collapse line="96" />
+			<Collapse line="104" />
+			<Collapse line="109" />
+			<Collapse line="118" />
+			<Collapse line="123" />
+		</Folding>
+	</File>
+	<File name="Main.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="13228" topLine="199" />
+		</Cursor>
+		<Folding>
+			<Collapse line="136" />
+			<Collapse line="194" />
+			<Collapse line="257" />
+			<Collapse line="262" />
+			<Collapse line="272" />
+			<Collapse line="277" />
+			<Collapse line="299" />
+			<Collapse line="301" />
+			<Collapse line="309" />
+			<Collapse line="363" />
+			<Collapse line="381" />
+			<Collapse line="383" />
+			<Collapse line="387" />
+			<Collapse line="406" />
+			<Collapse line="423" />
+			<Collapse line="442" />
+			<Collapse line="448" />
+			<Collapse line="567" />
+			<Collapse line="666" />
+			<Collapse line="670" />
+			<Collapse line="675" />
+			<Collapse line="683" />
+			<Collapse line="685" />
+			<Collapse line="690" />
+			<Collapse line="698" />
+			<Collapse line="700" />
+			<Collapse line="707" />
+			<Collapse line="719" />
+			<Collapse line="724" />
+			<Collapse line="732" />
+			<Collapse line="735" />
+			<Collapse line="743" />
+			<Collapse line="746" />
+			<Collapse line="752" />
+			<Collapse line="758" />
+			<Collapse line="766" />
+			<Collapse line="769" />
+			<Collapse line="775" />
+			<Collapse line="781" />
+			<Collapse line="791" />
+			<Collapse line="799" />
+			<Collapse line="810" />
+			<Collapse line="817" />
+			<Collapse line="819" />
+			<Collapse line="822" />
+			<Collapse line="826" />
+			<Collapse line="830" />
+			<Collapse line="842" />
+			<Collapse line="846" />
+		</Folding>
+	</File>
+	<File name="include\B2Renderer.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1869" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="0" />
+		</Folding>
+	</File>
+	<File name="include\CollisionListener.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="313" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="7" />
+		</Folding>
+	</File>
+	<File name="include\CollisionFilter.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="213" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\B2Renderer.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4570" topLine="103" />
+		</Cursor>
+	</File>
+	<File name="src\CollisionFilter.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="480" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="6" />
+			<Collapse line="16" />
+		</Folding>
+	</File>
+</CodeBlocks_layout_file>

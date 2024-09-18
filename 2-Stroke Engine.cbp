@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="2-Stroke Engine" />
+		<Option platforms="Windows;" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Release_WIN">
+				<Option output="bin/Release_WIN/ProjectNoname" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release_WIN/" />
+				<Option type="1" />
+				<Option compiler="gnu_gcc_compiler_gcc_492" />
+				<Option projectIncludeDirsRelation="2" />
+				<Option projectLibDirsRelation="2" />
+				<Compiler>
+					<Add option="-std=c++11" />
+					<Add option="-g" />
+					<Add option="-DSFML_STATIC" />
+					<Add directory="include" />
+					<Add directory="LIB_FILES/WINDOWS/SFML2.2_GCC_4.8/include/" />
+					<Add directory="freeglut" />
+					<Add directory="Box2D" />
+				</Compiler>
+				<Linker>
+					<Add library="sfml-graphics-s" />
+					<Add library="sfml-window-s" />
+					<Add library="sfml-network-s" />
+					<Add library="sfml-audio-s" />
+					<Add library="sfml-system-s" />
+					<Add library="glew" />
+					<Add library="freetype" />
+					<Add library="jpeg" />
+					<Add library="opengl32" />
+					<Add library="sfml-main" />
+					<Add library="gdi32" />
+					<Add library="winmm" />
+					<Add library="sndfile" />
+					<Add library="openal32" />
+					<Add library="ws2_32" />
+					<Add library="libBox2D" />
+					<Add directory="LIB_FILES/WINDOWS/SFML2.2_GCC_4.8/lib" />
+					<Add directory="LIB_FILES/WINDOWS/" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Main.cpp" />
+		<Unit filename="include/B2Renderer.h" />
+		<Unit filename="include/CollisionFilter.h" />
+		<Unit filename="include/CollisionListener.h" />
+		<Unit filename="include/FixtureUserDataContainer.h" />
+		<Unit filename="include/Globals.h" />
+		<Unit filename="src/B2Renderer.cpp" />
+		<Unit filename="src/CollisionFilter.cpp" />
+		<Unit filename="src/CollisionListener.cpp" />
+		<Unit filename="src/FixtureUserDataContainer.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+			<DoxyBlocks>
+				<comment_style block="2" line="2" />
+				<doxyfile_project />
+				<doxyfile_build extract_all="1" />
+				<doxyfile_warnings />
+				<doxyfile_output />
+				<doxyfile_dot />
+				<general />
+			</DoxyBlocks>
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
